@@ -1,0 +1,18 @@
+* Update birthdays, anniversaries, and club schedule.
+
+* Make a new folder for the current week in ISO-8601 format (e.g., 2018-06-21).
+
+* Copy the .pages file from the previous week there.
+
+* When done, print as PDF to the target folder.
+
+* Commit both the source .pages file and the .pdf file to version control.
+
+* Send out for review and approval to:
+  Walter Grundorf, John Gyllin, Jen Ferguson, Don Harris, Eric Boughman
+
+* Incorporate edits.
+
+* Send for distribution to Andrew DeStefano and Melissa Brzezinski.
+
+* Update link on lakemaryrotary.com/newsletter.pdf to latest version.
