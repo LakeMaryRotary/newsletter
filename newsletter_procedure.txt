@@ -4,6 +4,8 @@
 
 * Copy the .pages file from the previous week there.
 
+* Rename it with the current week.
+
 * When done, print as PDF to the target folder.
 
 * Commit both the source .pages file and the .pdf file to version control.
