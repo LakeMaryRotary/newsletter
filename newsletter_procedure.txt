@@ -1,10 +1,14 @@
 * Update birthdays, anniversaries, and club schedule.
 
+* Review https://my.rotary.org/en/news-media/calendar
+
 * Make a new folder for the current week in ISO-8601 format (e.g., 2018-06-21).
 
 * Copy the .pages file from the previous week there.
 
 * Rename it with the current week.
+
+* Send out draft for input and collaboration to Roger Sack.
 
 * When done, print as PDF to the target folder.
 
@@ -17,4 +21,5 @@
 
 * Send for distribution to Andrew DeStefano and Melissa Brzezinski.
 
-* Update link on lakemaryrotary.com/newsletter.pdf to latest version.
+* Update link on lakemaryrotary.org/newsletter to latest version.
+  * Go to http://www.lakemaryrotary.com/wp-admin/tools.php?page=redirection.php to edit the redirection.
