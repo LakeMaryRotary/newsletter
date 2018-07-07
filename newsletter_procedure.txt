@@ -8,6 +8,10 @@
 
 * Rename it with the current week.
 
+* See http://www.rotaractorwiki.org/images/b/b9/100RotaryQuotes.pdf for quotes.
+
+* Get program input from Jenny Russell and Megan Almasi.
+
 * Send out draft for input and collaboration to Roger Sack.
 
 * When done, print as PDF to the target folder.
