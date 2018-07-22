@@ -14,7 +14,7 @@
 
 * Get program input from Jenny Russell and Megan Almasi.
 
-* Send draft to Director Admin (currently Bryan Beyer) and Public Image Director (currently Davia Moss) to QA by Tuesday 2 p.m.
+* Send draft to Director Admin (currently Bryan Beyer) and Public Image Director (currently Davia Moss) for QA by Tuesday 2 p.m.
   * The draft URL for review is of the form https://github.com/LakeMaryRotary/newsletter/raw/master/2018-07-12/Rotary-Club-of-Lake-Mary-newsletter-2018-07-12.pdf
 
 * Incorporate edits.
