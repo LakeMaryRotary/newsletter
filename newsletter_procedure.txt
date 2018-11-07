@@ -9,6 +9,7 @@
 * See http://www.rotaractorwiki.org/images/b/b9/100RotaryQuotes.pdf for quotes.
 
 * Update birthdays, anniversaries, and club schedule.
+  * Get birthdays from https://www.crsadmin.com/Gen/Club/ClubBirthdayReportV2.aspx?aid=6146
 
 * Review https://my.rotary.org/en/news-media/calendar
 
@@ -31,4 +32,4 @@
 
 * Send to members via Club Runner on Wednesday morning/afternoon.
 
-* Send to Andrew DeStefano for printing.
+* Send to Josh Field for printing.
