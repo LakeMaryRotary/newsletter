@@ -13,14 +13,9 @@
 
 * Review https://my.rotary.org/en/news-media/calendar
 
-* Get program input from Jenny Russell and Megan Almasi.
-
-* Send draft to Director Admin (currently Bryan Beyer) and Public Image Director (currently Davia Moss) for QA by Tuesday 2 p.m.
-  * The draft URL for review is of the form https://github.com/LakeMaryRotary/newsletter/raw/master/2018-07-12/Rotary-Club-of-Lake-Mary-newsletter-2018-07-12.pdf
+* Get program input from Megan Almasi.
 
 * Incorporate edits.
-
-* Get approval from Director Admin and Director Public Image by Tuesday COB/evening.
 
 * When done, print as PDF to the target folder.
 
@@ -32,4 +27,4 @@
 
 * Send to members via Club Runner on Wednesday morning/afternoon.
 
-* Send to Josh Field for printing.
+* Send to Howard Hirsch for printing.
